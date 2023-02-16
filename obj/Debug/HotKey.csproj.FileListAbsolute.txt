@@ -1,0 +1,10 @@
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\bin\Debug\HotKey.exe.config
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\bin\Debug\HotKey.exe
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\bin\Debug\HotKey.pdb
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.csproj.AssemblyReference.cache
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.Form1.resources
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.Properties.Resources.resources
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.csproj.GenerateResource.cache
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.csproj.CoreCompileInputs.cache
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.exe
+C:\Users\Fancyqube\Desktop\C#code\HotKey\HotKey\obj\Debug\HotKey.pdb
